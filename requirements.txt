@@ -1,0 +1,17 @@
+beautifulsoup4
+langchain
+#langgraph
+langchainhub
+langchain-community
+tavily-python
+python-dotenv
+black
+isort
+pytest
+chromadb
+#langchain-google-genai
+langchain-chroma
+langchain-text-splitters
+langchain-huggingface
+sentence-transformers
+transformers
